@@ -1,3 +1,5 @@
+> **Moved:** this repo is merged into https://github.com/VasiliiKirillov/skills and is now archived.
+
 # agent-browser-skills
 
 Battle-tested Agent Skills for browser automation with Claude / [Hermes](https://github.com/NousResearch/hermes-agent) and other agent frameworks that support the [Agent Skills](https://www.anthropic.com/news/skills) format (a `SKILL.md` with YAML frontmatter, picked up automatically by name/description).
